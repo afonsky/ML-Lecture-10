@@ -93,7 +93,7 @@ $$
 -->
 
 ---
-zoom: 0.98
+zoom: 0.96
 --- 
 
 # Hyperplane in 2D
@@ -202,7 +202,7 @@ showlegend: false
 </div>
 
 ---
-zoom: 0.95
+zoom: 0.93
 ---
 
 # Hyperplane in $p$ Dimensions
@@ -210,7 +210,7 @@ zoom: 0.95
 <div class="grid grid-cols-[3fr_2fr] gap-6">
 <div>
 
-* We can’t visualize it for $p > 3$
+* We can’t visualize the hyperplane for $p > 3$ 😳
 * It’s a $~p - 1~$ dimensional object<br> in $p$ dimensional space, $\{x_{p \times 1} ~|~\beta_0 + \beta_{p \times 1}^{T} x = 0\}$
 </div>
 <div>

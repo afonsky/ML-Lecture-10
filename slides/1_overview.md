@@ -1,5 +1,5 @@
 ---
-zoom: 0.95
+zoom: 0.9
 --- 
 
 # Overview of Support Vector Machines
