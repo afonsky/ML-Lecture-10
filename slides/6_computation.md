@@ -24,6 +24,8 @@ layout: center
 </v-clicks>
 
 ---
+zoom: 0.9
+---
 
 # Monte Carlo: Replace Integrals with Averages
 
